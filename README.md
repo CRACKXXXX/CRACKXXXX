@@ -1,8 +1,8 @@
-# Hi, I'm Joel Rodriguez Jurado (CRACKORB) 👋
+# Hi, I'm Joel Rodriguez Jurado (CRACKXXXX) 👋
 
 **Systems Technician (SMR) | Software Development Student (DAM)**
 
-I am a 19-year-old developer transitioning from Systems Administration (SMR) to Software Development (DAM). I have theoretical knowledge and a strong interest in Game Development, Cybersecurity, and AI, and I am currently working towards putting them into practice. 
+I am a 19-year-old developer transitioning from Systems Administration (SMR) to Software Development (DAM). I have theoretical knowledge and a strong interest in Game Development, Cybersecurity, and AI, and I am currently working towards putting them into practice.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -30,15 +30,16 @@ I am a 19-year-old developer transitioning from Systems Administration (SMR) to 
 **Tools & Editors:**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-* **Other Tools:** Antigravity, Cursor (Currently learning)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-212121?style=for-the-badge)
 
 ### 🚀 Featured Projects
 
-* **LSPA:** A specialized analyzer and utility tool with complex integrations for gaming environments.
-* **Vendetta-Games:** A custom web platform designed to function seamlessly as an in-game URL for roleplay servers.
+* **[LSPA](https://github.com/CRACKXXXX/LSPA):** A specialized analyzer and utility tool with complex integrations for gaming environments.
+* **[Vendetta-Games](https://github.com/CRACKXXXX/Vendetta-Games):** A custom web platform designed to function seamlessly as an in-game URL for roleplay servers.
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CRACKORB&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CRACKXXXX&show_icons=true&theme=radical)
 
 ### 📫 Contact Me
 * 📧 **Email:** [joelrjtirma@gmail.com](mailto:joelrjtirma@gmail.com)
