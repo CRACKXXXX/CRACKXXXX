@@ -8,15 +8,10 @@ I am a 19-year-old developer transitioning from Systems Administration (SMR) to 
 
 ### 🌐 Languages
 
-**Primary:**
-![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Primary-Spanish_(Native)-FFC400?style=for-the-badge&labelColor=C60B1E&color=FFC400)
+![English](https://img.shields.io/badge/Secondary-English_(Fluent)-00247D?style=for-the-badge&labelColor=CF142B&color=00247D)
 
-**Secondary:**
-![English](https://img.shields.io/badge/English-Fluent-brightgreen?style=for-the-badge)
-
-**Others:**
-* 🇩🇪 **German & 🇫🇷 French:** Basic understanding and speaking.
-* 🇵🇹 **Portuguese:** Basic understanding, speaking, and writing.
+* 🇩🇪 **German**, 🇫🇷 **French** & 🇵🇹 **Portuguese:** Basic skills (listening, reading, speaking, and writing).
 * 🤟 **Sign Language:** Basic knowledge.
 * 🌍 **Others:** Passive understanding of various other languages.
 
