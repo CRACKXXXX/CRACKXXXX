@@ -1,4 +1,8 @@
-<div align="right"><small><i>Last updated: 26/04/2026</i></small></div>
+<div align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCRACKXXXX&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Views"/>
+  <br>
+  <small><i>Last updated: 26/04/2026</i></small>
+</div>
 
 # 🚀 Joel Rodriguez Jurado | CRACKXXXX
 **Certified Systems Technician (SMR) 🎓 | Multi-platform Application Development Student (DAM) 💻**
@@ -9,6 +13,8 @@
 I am a 19-year-old tech professional from Spain, currently bridging the gap between **Systems Infrastructure** and **Software Development**. I possess a **proactive and self-taught mindset**, with a proven ability to learn complex technologies independently and rapidly.
 
 My methodology is rooted in **"learning by doing"**—utilizing a creative, experimental, and trial-and-error approach to master systems. I integrate **AI tools** as a high-performance co-pilot to optimize development and troubleshooting.
+
+[ ![Download CV](https://img.shields.io/badge/Download_my_full_CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) ](TU_ENLACE_AL_PDF_AQUI)
 
 ---
 
@@ -26,7 +32,7 @@ My methodology is rooted in **"learning by doing"**—utilizing a creative, expe
 ![English](https://img.shields.io/badge/Secondary-English_(Fluent)-00247D?style=for-the-badge&labelColor=CF142B&color=00247D)
 
 **Technical & Basic Proficiency:**
-* 🇩🇪 **German** | 🇫🇷 **French** | 🇵🇹 **Portuguese** (Basic Speaking/Reading/Writing)
+* 🇩🇪 **German** | 🇫🇷 **French** | 🇵🇹 **Portuguese** (Basic Speaking, Reading & Writing)
 * 🤟 **Sign Language** (Basic Knowledge)
 * 🌍 **Passive Understanding:** Functional comprehension of various other languages.
 
