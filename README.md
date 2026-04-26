@@ -6,6 +6,20 @@
 
 I am a 19-year-old developer transitioning from Systems Administration (SMR) to Software Development (DAM). I have theoretical knowledge and a strong interest in Game Development, Cybersecurity, and AI, and I am currently working towards putting them into practice.
 
+### 🌐 Languages
+
+**Primary:**
+![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge)
+
+**Secondary:**
+![English](https://img.shields.io/badge/English-Fluent-brightgreen?style=for-the-badge)
+
+**Others:**
+* 🇩🇪 **German & 🇫🇷 French:** Basic understanding and speaking.
+* 🇵🇹 **Portuguese:** Basic understanding, speaking, and writing.
+* 🤟 **Sign Language:** Basic knowledge.
+* 🌍 **Others:** Passive understanding of various other languages.
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Web:**
