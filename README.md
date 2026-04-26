@@ -2,9 +2,9 @@
 
 # Hi, I'm Joel Rodriguez Jurado (CRACKXXXX) 👋
 
-**Systems Technician (SMR) | Software Development Student (DAM)**
+**Microcomputer Systems and Networks Technician (SMR) | Multi-platform Application Development Student (DAM)**
 
-I am a 19-year-old developer transitioning from Systems Administration (SMR) to Software Development (DAM). My workflow is defined by a **creative, experimental, and trial-and-error methodology**, using AI as a powerful supportive tool to refine and optimize every project.
+I am a 19-year-old developer transitioning from Systems Administration to Software Development. My workflow is defined by a **creative, experimental, and trial-and-error methodology**, using AI as a powerful supportive tool to refine and optimize every project.
 
 ---
 
