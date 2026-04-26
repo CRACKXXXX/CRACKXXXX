@@ -55,7 +55,7 @@ My methodology is rooted in **"learning by doing"**—utilizing a creative, expe
 ---
 
 ### ⚡ Soft Skills & Leadership
-* ⚜️ **Volunteering:** Active member of **Scouts de España - Doramas 104**. Committed to community values.
+* ⚜️ **Volunteering:** Active member of **Scouts in Spain - Doramas 104**. Committed to community values.
 * 🤝 **Liderazgo & Teamwork:** Proven ability to lead projects, assist peers, and thrive in collaborative environments.
 * 🧩 **Analytical Mindset:** Logic-driven approach to technical challenges, focused on scalable solutions.
 * 📈 **Fast Learner:** High capacity for rapid adaptation and independent skill acquisition.
