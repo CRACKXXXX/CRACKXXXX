@@ -69,11 +69,4 @@ My methodology is rooted in **"learning by doing"**—utilizing a creative, expe
 ---
 
 ### 📊 GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CRACKXXXX&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRACKXXXX&layout=compact&theme=radical)
-
----
-
-### 📫 Contact & Connections
-* 📧 **Email:** [joelrjtirma@gmail.com](mailto:joelrjtirma@gmail.com)
-* 💬 **Discord:** [Joel / CRACKORB](https://discord.com/users/960142681999306762)
+![GitHub stats](
