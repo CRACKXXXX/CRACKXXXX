@@ -1,3 +1,5 @@
+<div align="right"><small><i>Last updated: 26/04/2026</i></small></div>
+
 # Hi, I'm Joel Rodriguez Jurado (CRACKXXXX) 👋
 
 **Systems Technician (SMR) | Software Development Student (DAM)**
@@ -39,6 +41,8 @@ I am a 19-year-old developer transitioning from Systems Administration (SMR) to 
 * **[Vendetta-Games](https://github.com/CRACKXXXX/Vendetta-Games):** A custom web platform designed to function seamlessly as an in-game URL for roleplay servers.
 
 ### 📊 GitHub Stats
+*Note: I am just starting out on my development journey, so my current stats are a work in progress!*
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CRACKXXXX&show_icons=true&theme=radical)
 
 ### 📫 Contact Me
